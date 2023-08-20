@@ -25,4 +25,5 @@ dataset/
 bash run.sh
 ```
 
-## Log
+## Checkpoints
+The trained checkpoint and log can be found here: [Google Drive](https://drive.google.com/drive/folders/17ny2ZPPRHiEoON6NxLK38AlgyDkfIuIH?usp=sharing).
